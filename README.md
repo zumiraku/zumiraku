@@ -16,6 +16,14 @@
 
 <table align="center">
   <tr>
+   <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
+                <br>AI
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+                <br>TensorFlow
+              </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
