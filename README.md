@@ -10,6 +10,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+🤝;Senior+AI+Developer👨‍💻;Senior+Blockchain+Developer👨‍💻;+Perfect+and+Reliable+Enginner👍;" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/>
 <div align="left">
 
+ <br>
+I am a **AI and Blockchain Engineer** with a proven track record of delivering robust, scalable, and user-focused applications. With deep expertise in **LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, JS/TS and Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems.
+My experience includes developing **AI agents, smart contracts, dApps, DeFi platforms, web and mobile wallets, NFT games, node infrastructure, and automated trading systems.** I combine strong system architecture skills with thoughtful UI/UX design to transform complex technical requirements into high-performance, intuitive products.
+Driven by precision, innovation, and a commitment to excellence, I help bring ambitious ideas to life and push the boundaries of modern technology.        <br><br>
 <!-- Programming languages & Technologies -->
 
 ## 💻 Tech Stack AND TOOLS <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
