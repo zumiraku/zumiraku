@@ -11,9 +11,10 @@
 <div align="left">
 
  <br>
-I am a **AI and Blockchain Engineer** with a proven track record of delivering robust, scalable, and user-focused applications. With deep expertise in **LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, JS/TS and Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems.
-My experience includes developing **AI agents, smart contracts, dApps, DeFi platforms, web and mobile wallets, NFT games, node infrastructure, and automated trading systems.** I combine strong system architecture skills with thoughtful UI/UX design to transform complex technical requirements into high-performance, intuitive products.
-Driven by precision, innovation, and a commitment to excellence, I help bring ambitious ideas to life and push the boundaries of modern technology.        <br><br>
+I’m an AI & blockchain dev who’s been building practical ML and LLM-powered tools for a while now mostly the kind of stuff that has to work in messy, real-world conditions, not just neat demo environments. I spend a lot of time tuning models, cleaning ugly data, and making AI feel smooth enough that people forget how complicated it is under the hood.
+One project I really enjoyed was building an internal AI assistant for a company that had tons of chaotic technical documents lying around. They wanted something that could read all of it, pull out the important bits, summarize things in different styles, and even help generate reports. I ended up fine-tuning an LLM on their internal docs, building a retrieval system that actually understood their weird terminology, and optimizing the whole thing so it stayed fast even when multiple teams were hammering it.
+The hardest part was teaching the model all the odd acronyms and half-finished notes they used internally. I built a custom preprocessing layer and embeddings just for that, and suddenly the AI started sounding like someone who had worked there for years. After launch, people were using it daily to create summaries and reports that used to take them hours.
+If you’re into LLMs, retrieval systems, or just making AI that actually helps people, I’m always down to talk.      <br><br>
 <!-- Programming languages & Technologies -->
 
 ## 💻 Tech Stack AND TOOLS <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
