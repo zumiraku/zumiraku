@@ -17,13 +17,13 @@
 <table align="center">
   <tr>
    <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
+       <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
                 <br>AI
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+       </td>
+       <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
                 <br>TensorFlow
-              </td>
+        /td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -52,18 +52,18 @@
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
       <br>Rails
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
       <br>Phoenix
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="90">
