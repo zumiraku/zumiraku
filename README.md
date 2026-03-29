@@ -7,7 +7,7 @@
 
 
 <!-- Introduction -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+🤝;Senior+AI+Developer👨‍💻;Senior+Blockchain+Engineer👨‍💻;+Perfect+and+Reliable+Engineer👍;" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+🤝;Senior+AI+Engineer👨‍💻;Senior+Blockchain+Engineer👨‍💻;Senior+Fullstack+Web+Engineer👨‍💻;+Perfect+and+Reliable+Engineer👍;" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/>
 <div align="left">
 
  <br>
