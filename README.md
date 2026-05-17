@@ -1,3 +1,4 @@
+<!-- Dark & Light Mode Emojis -->
 <a href="https://github.com/settings/appearance#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
 </a>
@@ -6,136 +7,102 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
 </a>
 
-<!-- Introduction -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+🤝;Sr.+Web+%26+AI+Engineer👨‍💻;Scalable+API+%26+Cloud+Systems⚙️;AI-driven+Intelligent+Solutions🚀;" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="70"/>
+<!-- Animated Intro -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+🤝;Senior+Full-Stack+Web+%26+AI+Engineer👨‍💻;Scalable+API+%26+Cloud+Systems⚙️;Reliable+Production+Delivery🚀;" />
 
 <div align="left">
 
 <br>
 
-## 💻 Core Backend, AI & Infrastructure Stack
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
+## 👋 About Me
+I’m a **Senior Full-Stack Web & AI Engineer** with 8+ years of experience building scalable, maintainable, and high-performance systems.  
+I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
-      <br>Django
-    </td>
-  </tr>
+- Passionate about **end-to-end system design** from database architecture to frontend interfaces.
+- Experienced in **AI/ML integrations** with web apps and backend systems.
+- Strong background in **cloud-native infrastructure, containerization, CI/CD pipelines**, and reliable production deployments.
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
-      <br>scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>CI/CD
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-      <br>Monitoring
-    </td>
-  </tr>
+## 💻 Tech Stack
+
+### Backend & APIs
+<table>
+<tr>
+  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/><br>TypeScript</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
+</tr>
 </table>
 
-<br>
+### Databases & Caching
+<table>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"/><br>Elasticsearch</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="50"/><br>RabbitMQ</td>
+</tr>
+</table>
 
-## ⚙️ Focus Areas
+### Frontend & Web
+<table>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
+</tr>
+</table>
 
-- **Backend & API Development:** Python, FastAPI, Node.js, Express, NestJS, Django
-- **AI & ML Systems:** Computer Vision, NLP, Predictive Modeling, Deep Learning pipelines
-- **Data Engineering:** Database design, query optimization, indexing, scalable data modeling
-- **Security & Access:** Authentication, authorization, RBAC, API security, compliance
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Linux, Nginx, Terraform
-- **Production & Operations:** CI/CD, deployment automation, environment management, monitoring, logging
-- **Performance & Scalability:** High-concurrency systems, caching, queues, asynchronous workflows
-- **AI-Enhanced Products:** Intelligent APIs, recommendation systems, automated workflows, and AI-driven insights
+### Cloud, DevOps & Infrastructure
+<table>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br>Nginx</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br>GitHub Actions</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="50"/><br>Terraform</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="50"/><br>Prometheus</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
+</tr>
+</table>
+
+### AI / ML & Automation
+- Python-based AI/ML pipelines and integration
+- OpenAI APIs, LangChain, Transformers, and NLP solutions
+- Data processing, feature engineering, and inference pipelines
+- Automated testing, logging, and monitoring for AI models in production
+
+---
+
+## ⚙️ Core Expertise
+
+- Full-stack web application development (React, Next.js, Vue.js + Python/Node.js backends)
+- High-performance, scalable, and secure APIs
+- Database modeling, indexing, optimization, and transactional systems
+- Cloud-native infrastructure: AWS, Docker, Kubernetes, Terraform, Nginx
+- CI/CD pipelines, automated deployments, and monitoring systems
+- AI/ML system integration and data-driven automation
+- Queue-based background processing, caching, and high-throughput workflows
+- Production-ready engineering: reliability, maintainability, and scalability
+
+---
+
+## 🔗 Connect with Me
+- GitHub: [YourUsername](https://github.com/YourUsername)  
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)  
+- Portfolio: [YourPortfolio](https://yourportfolio.com)  
 
 </div>
