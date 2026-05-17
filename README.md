@@ -15,10 +15,10 @@
 <br>
 
 ## 👋 About Me
-I’m a **Senior Full-Stack Web & AI Engineer** with 8+ years of experience building scalable, maintainable, and high-performance systems.  
+I m a **Sr. F/S Web & AI Eng.** with 8+ yrs of exp building scalable, maintainable, and high-performance systems.  
 I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
 
-- Passionate about **end-to-end system design** from database architecture to frontend interfaces.
+- Passionate about **E2E system design** from database architecture to frontend interfaces.
 - Experienced in **AI/ML integrations** with web apps and backend systems.
 - Strong background in **cloud-native infrastructure, containerization, CI/CD pipelines**, and reliable production deployments.
 
@@ -101,8 +101,7 @@ I specialize in **web platforms, AI integration, cloud infrastructure, and produ
 ---
 
 ## 🔗 Connect with Me
-- GitHub: [YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)  
-- Portfolio: [YourPortfolio](https://yourportfolio.com)  
+- Chatwork: [tanakai]  
+- Portfolio: [dev-of-wonderland](https://dev-of-wonderland.lovable.app)  
 
 </div>
