@@ -19,20 +19,6 @@
 I m a **Sr. F/S Web & AI Eng.** with 8+ yrs of exp building scalable, maintainable, and high-performance systems.  
 I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
 
-                                 ,-
-                               ,'::|
-                              /::::|
-                            ,'::::o\                                      _..
-         ____........-------,..::?88b                                  ,-' /
- _.--"""". . . .      .   .  .  .  ""`-._                           ,-' .;'
-<. - :::::o......  ...   . . .. . .  .  .""--._                  ,-'. .;'
- `-._  ` `":`:`:`::||||:::::::::::::::::.:. .  ""--._ ,'|     ,-'.  .;'
-     """_=--       //'doo.. ````:`:`::::::::::.:.:.:. .`-`._-'.   .;'
-         ""--.__     P(       \               ` ``:`:``:::: .   .;'
-                "\""--.:-.     `.                             .:/
-                  \. /    `-._   `.""-----.,-..::(--"".\""`.  `:\
-                   `P         `-._ \          `-:\          `. `:\
-                                   ""            "            `-._) 
 
 - Passionate about **E2E system design** from database architecture to frontend interfaces.
 - Experienced in **AI/ML integrations** with web apps and backend systems.
