@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+🤝;Senior+Full-Stack+Web+%26+AI+Engineer👨‍💻;Scalable+API+%26+Cloud+Systems⚙️;Reliable+Production+Delivery🚀;" />
 
 <div align="left">
-![Freelancer Logo](https://dev-of-wonderland.lovable.app//logo-Bzwjr5ku.png)
+![Freelancer Logo](https://dev-of-wonderland.lovable.app/logo-Bzwjr5ku.png)
 
 <br>
 
