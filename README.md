@@ -103,7 +103,6 @@ I specialize in **web platforms, AI integration, cloud infrastructure, and produ
 ---
 
 ## 🔗 Connect with Me
-- Chatwork: [tanakai](https://www.chatwork.com/#!rid372017304)  
 - Portfolio: [dev-of-wonderland](https://dev-of-wonderland.lovable.app)  
 
 </div>
