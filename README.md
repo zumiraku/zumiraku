@@ -9,6 +9,15 @@
 
 <!-- Animated Intro -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+🤝;Senior+Full-Stack+Web+%26+AI+Engineer👨‍💻;Scalable+API+%26+Cloud+Systems⚙️;Reliable+Production+Delivery🚀;" />
+                                   
+
+<div align="left">
+
+<br>
+
+## 👋 About Me
+I m a **Sr. F/S Web & AI Eng.** with 8+ yrs of exp building scalable, maintainable, and high-performance systems.  
+I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
 
                                  ,-
                                ,'::|
@@ -24,15 +33,6 @@
                   \. /    `-._   `.""-----.,-..::(--"".\""`.  `:\
                    `P         `-._ \          `-:\          `. `:\
                                    ""            "            `-._) 
-                                   
-
-<div align="left">
-
-<br>
-
-## 👋 About Me
-I m a **Sr. F/S Web & AI Eng.** with 8+ yrs of exp building scalable, maintainable, and high-performance systems.  
-I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
 
 - Passionate about **E2E system design** from database architecture to frontend interfaces.
 - Experienced in **AI/ML integrations** with web apps and backend systems.
