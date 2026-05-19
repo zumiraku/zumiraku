@@ -103,6 +103,6 @@ I specialize in **web platforms, AI integration, cloud infrastructure, and produ
 ---
 
 ## 🔗 Connect with Me
-- Portfolio: [dev-of-wonderland](https://strongly-typed-soul.lovable.app)  
+- Portfolio: [strongly-typed-soul](https://strongly-typed-soul.lovable.app)  
 
 </div>
