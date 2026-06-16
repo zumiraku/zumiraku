@@ -64,6 +64,7 @@ I specialize in **web platforms, AI integration, cloud infrastructure, and produ
   <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=angluar" width="50"/><br>Angluar</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="50"/><br>WordPress</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
