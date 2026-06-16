@@ -1,108 +1,84 @@
-<!-- Dark & Light Mode Emojis -->
-<a href="https://github.com/settings/appearance#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
-</a>
+<!-- ===================== HEADER SECTION ===================== -->
 
-<a href="https://github.com/settings/appearance#gh-light-mode-only">  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
-</a>
+<div align="center">
 
-<!-- Animated Intro -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+🤝;Senior+Full-Stack+Web+%26+AI+Engineer👨‍💻;Scalable+API+%26+Cloud+Systems⚙️;Reliable+Production+Delivery🚀;" />
-                                   
+# 🌊 Sr. F/S Web & AI Engineer
 
-<div align="left">
+</div>
 
-<br>
+<!-- Ocean Background Section -->
+<div style="width:100%; padding:40px 0; background-image: url('https://images.unsplash.com/photo-1500375592092-40eb2168fd21'); background-size: cover; background-position: center; border-radius: 12px;">
 
-## 👋 About Me
-I m a **Sr. F/S Web & AI Eng.** with 8+ yrs of exp building scalable, maintainable, and high-performance systems.  
-I specialize in **web platforms, AI integration, cloud infrastructure, and production-grade deployments**.  
+<br/>
 
+<div align="center" style="background: rgba(0,0,0,0.55); padding: 25px; border-radius: 12px; color: white;">
 
-- Passionate about **E2E system design** from database architecture to frontend interfaces.
-- Experienced in **AI/ML integrations** with web apps and backend systems.
-- Strong background in **cloud-native infrastructure, containerization, CI/CD pipelines**, and reliable production deployments.
+## 🐋 About Me
 
----
+I am a **Senior Full Stack Web & AI Engineer** specializing in building scalable web applications, intelligent systems, and cloud-native architectures.
 
-## 💻 Tech Stack
+I enjoy designing systems where **technology meets nature-like fluidity — adaptive, intelligent, and resilient**.
 
-### Backend & APIs
-<table>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/><br>TypeScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
-</tr>
-</table>
+🌊 Passionate about:
+- AI-driven applications
+- Full Stack Development
+- Cloud & DevOps Architecture
+- Real-time Systems
 
-### Databases & Caching
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"/><br>Elasticsearch</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="50"/><br>RabbitMQ</td>
-</tr>
-</table>
+</div>
 
-### Frontend & Web
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-</tr>
-</table>
+<br/>
 
-### Cloud, DevOps & Infrastructure
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br>Nginx</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br>GitHub Actions</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="50"/><br>Terraform</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="50"/><br>Prometheus</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
-</tr>
-</table>
-
-### AI / ML & Automation
-- Python-based AI/ML pipelines and integration
-- OpenAI APIs, LangChain, Transformers, and NLP solutions
-- Data processing, feature engineering, and inference pipelines
-- Automated testing, logging, and monitoring for AI models in production
+</div>
 
 ---
 
-## ⚙️ Core Expertise
+<!-- ===================== CLOUD SKILLS SECTION ===================== -->
 
-- Full-stack web application development (React, Next.js, Vue.js + Python/Node.js backends)
-- High-performance, scalable, and secure APIs
-- Database modeling, indexing, optimization, and transactional systems
-- Cloud-native infrastructure: AWS, Docker, Kubernetes, Terraform, Nginx
-- CI/CD pipelines, automated deployments, and monitoring systems
-- AI/ML system integration and data-driven automation
-- Queue-based background processing, caching, and high-throughput workflows
-- Production-ready engineering: reliability, maintainability, and scalability
+<div style="width:100%; padding:40px 0; background-image: url('https://images.unsplash.com/photo-1501785888041-af3ef285b470'); background-size: cover; background-position: center; border-radius: 12px;">
+
+<div align="center" style="background: rgba(255,255,255,0.75); padding: 25px; border-radius: 12px;">
+
+## ☁️ Skills & Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### 🤖 AI / Data
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+</div>
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
-- Portfolio: [strongly-typed-soul](https://strongly-typed-soul.lovable.app)  
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### 🌐 “Building intelligent systems that flow like the ocean and scale like the sky.”
 
 </div>
