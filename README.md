@@ -26,67 +26,104 @@ I specialize in **web platforms, AI integration, cloud infrastructure, and produ
 
 ---
 
-## 💻 Tech Stack
+# 🧠 Engineering Expertise
 
-### Backend & APIs
-<table>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/><br>TypeScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
-</tr>
-</table>
+## 🏗️ System Design & Architecture
+- Microservices & modular monolith architectures
+- Event-driven systems (message queues, async processing)
+- Scalable REST & GraphQL API design
+- High-availability backend systems (fault tolerance, redundancy)
+- Performance optimization (latency reduction, caching strategies)
 
-### Databases & Caching
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"/><br>Elasticsearch</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="50"/><br>RabbitMQ</td>
-</tr>
-</table>
+---
 
-### Frontend & Web
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="50"/><br>WordPress</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-</tr>
-</table>
+## ⚙️ Backend Engineering
+- API development with clean architecture principles
+- Authentication & authorization systems (JWT, OAuth2, RBAC)
+- Background job processing & task queues
+- Real-time systems (WebSockets, event streaming)
+- Secure backend design (rate limiting, validation, threat mitigation)
 
-### Cloud, DevOps & Infrastructure
-<table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br>Nginx</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br>GitHub Actions</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="50"/><br>Terraform</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="50"/><br>Prometheus</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
-</tr>
-</table>
+**Core Stack:**
+Python · FastAPI · Django · Node.js · Express · NestJS · TypeScript · JavaScript
 
-### AI / ML & Automation
-- Python-based AI/ML pipelines and integration
-- OpenAI APIs, LangChain, Transformers, and NLP solutions
-- Data processing, feature engineering, and inference pipelines
-- Automated testing, logging, and monitoring for AI models in production
+---
+
+## 🗄️ Data Engineering & Storage Systems
+- Relational database design & normalization
+- High-performance query optimization
+- Distributed caching strategies (Redis)
+- Search indexing & full-text search systems
+- Data pipeline structuring for AI & analytics workflows
+
+**Core Stack:**
+PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Prisma · Supabase · RabbitMQ
+
+---
+
+## 🎨 Frontend Engineering
+- Component-driven architecture for scalable UI systems
+- SSR / CSR optimization (Next.js performance tuning)
+- Responsive UI/UX implementation
+- State management for complex applications
+- API integration & frontend-backend synchronization
+
+**Core Stack:**
+React · Next.js · Vue.js · TypeScript · Tailwind CSS · WordPress · Figma
+
+---
+
+## ☁️ Cloud, DevOps & Infrastructure
+- Cloud-native application deployment (AWS-based systems)
+- Containerization & orchestration (Docker, Kubernetes)
+- CI/CD pipeline automation (GitHub Actions)
+- Infrastructure as Code (Terraform)
+- Production monitoring & observability systems
+
+**Core Stack:**
+AWS · Docker · Kubernetes · Nginx · Linux · Terraform · Prometheus · GitHub Actions
+
+---
+
+## 🤖 AI / ML & Intelligent Systems
+- Integration of LLMs into production applications
+- Prompt engineering & AI workflow design
+- Retrieval-Augmented Generation (RAG) systems
+- NLP pipelines & transformer-based models
+- Automation systems using AI agents
+
+**Capabilities:**
+- OpenAI API integration for real-world products
+- LangChain-based agent workflows
+- Data preprocessing & feature engineering pipelines
+- AI observability (logging, evaluation, monitoring)
+
+---
+
+## 🔁 Distributed & Scalable Systems Thinking
+- Designing systems for horizontal scaling
+- Load balancing & traffic distribution strategies
+- Asynchronous processing architectures
+- Failure recovery & resilience engineering
+- Multi-service orchestration patterns
+
+---
+
+## 🧪 Engineering Practices
+- Clean Code & SOLID principles
+- Test-driven development (TDD)
+- Code review & CI quality enforcement
+- Secure coding practices
+- Production debugging & incident handling
+
+---
+
+# 🚀 What I Build
+- SaaS platforms (scalable backend + modern UI)
+- AI-powered automation systems
+- High-performance APIs & microservices
+- Data-driven web applications
+- Cloud-native enterprise systems
 
 ---
 
