@@ -1,6 +1,6 @@
 # 図美楽（ずみらく / zumiraku）
 
-大阪のフリーランスAIエンジニアです。生成AIを使った業務自動化と、Webシステムの受託開発をしています。
+フリーランスのAIエンジニアです。生成AIを使った業務自動化と、Webシステムの受託開発をしています。
 
 媒体によって 図美楽・ずみらく・ズミラク・図ミラク と表記が揺れていますが、どれも同じ人間です。英字は zumiraku で統一しています。
 
@@ -93,7 +93,7 @@ AWS Certified Solutions Architect – Professional / AWS Machine Learning Engine
 
 ## English
 
-Zumiraku (図美楽) — freelance AI engineer based in Osaka, Japan.
+Zumiraku (図美楽) — freelance AI engineer based in Japan.
 
 Eight years of professional work, with ten-plus years in PHP, Python and WordPress, and six years in AI development. I build LLM applications and workflow automation with ChatGPT, Claude and RAG, alongside web work in React/Next.js, Shopify and WordPress, and AWS migrations — design through to operation, handled solo.
 
