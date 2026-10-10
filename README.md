@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+%C2%B7+Generative+AI+%C3%97+Web;RAG+%7C+LLM+Apps+%7C+Workflow+Automation;Design+to+Operation%2C+End+to+End" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&height=60&lines=Zumiraku+%E2%80%94+AI+Engineer+in+Osaka;Generative+AI+%C3%97+Web+Development;RAG+%7C+LLM+Apps+%7C+Workflow+Automation;Design+to+Operation%2C+End+to+End" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,9 +19,11 @@
 
 <br/>
 
-# ブラックにゃー（blacknyaa）
+# 図美楽（ずみらく / zumiraku）
 
 生成AI×Web開発のフリーランスAIエンジニアです。大阪在住。
+
+表記は媒体によって 図美楽・ずみらく・ズミラク・図ミラク と揺れていますが、どれも同じ人間です。英字は zumiraku で統一しています。
 
 ChatGPT・Claude・RAG を使ったLLM開発と業務自動化を軸に、React/Next.js・Shopify・WordPress でのサイト制作、AWSへのサーバー移行まで、設計から運用までひとりで完結させています。
 
@@ -40,9 +42,8 @@ ChatGPT・Claude・RAG を使ったLLM開発と業務自動化を軸に、React/
 | サーバー移行 | ダウンタイム **ほぼゼロ** |
 | Web・アプリの制作 | **170件以上** |
 | システム・ツールの開発 | **80件以上** |
-| ランサーズ | 完了率 **100%** ・評価は全件「満足」・**認定ランサー** |
 
-数字の出どころは [ランサーズのプロフィール](https://www.lancers.jp/profile/Ponta-0363) にあります。
+8年の受託で積み上げた数字です。
 
 <br/>
 
@@ -50,9 +51,9 @@ ChatGPT・Claude・RAG を使ったLLM開発と業務自動化を軸に、React/
 
 | | |
 |---|---|
-| [sktes-global-auction](https://github.com/blacknyaa/sktes-global-auction) | 中古IT機器の国際競売プラットフォーム。入札額をロットごとの鍵で暗号化し、締切まで出品者にも管理者にも見えない封印入札。Excel明細の取り込み、多要素認証、7年保存の監査ログ、日英中の3言語対応。Next.js 15 / Prisma / TypeScript |
-| [work-report-system](https://github.com/blacknyaa/work-report-system) | 病院設備の保守点検報告書システム。さくらのレンタルサーバで動かす必要があったので、外部ライブラリを一切使わず素のPHPで組んでいます |
-| [teachingbeauty-migration-to-wp](https://github.com/blacknyaa/teachingbeauty-migration-to-wp) | 鍼灸整骨院サイトのWordPress移行。既存の予約導線を落とさないことが最優先の案件でした |
+| [sktes-global-auction](https://github.com/zumiraku/sktes-global-auction) | 中古IT機器の国際競売プラットフォーム。入札額をロットごとの鍵で暗号化し、締切まで出品者にも管理者にも見えない封印入札。Excel明細の取り込み、多要素認証、7年保存の監査ログ、日英中の3言語対応。Next.js 15 / Prisma / TypeScript |
+| [work-report-system](https://github.com/zumiraku/work-report-system) | 病院設備の保守点検報告書システム。さくらのレンタルサーバで動かす必要があったので、外部ライブラリを一切使わず素のPHPで組んでいます |
+| [teachingbeauty-migration-to-wp](https://github.com/zumiraku/teachingbeauty-migration-to-wp) | 鍼灸整骨院サイトのWordPress移行。既存の予約導線を落とさないことが最優先の案件でした |
 
 このほか、不動産の新着物件をChatGPTに判定させてLINEへ毎朝配信する仕組み、ホームステイ・タレントのAIマッチング、手術予約の管理システム、製造業の生産管理などを非公開リポジトリで。
 
@@ -153,13 +154,13 @@ AWS Certified Solutions Architect – Professional / AWS Machine Learning Engine
 
 ## 書いているもの
 
-[Zenn](https://zenn.dev/blacknyaa) と [note](https://note.com/blacknyaa)、[Qiita](https://qiita.com/blacknyaa) に書いています。原稿は [my-zenn-articles](https://github.com/blacknyaa/my-zenn-articles) で管理しています。詰まったところと、その回避策が中心です。
+[Zenn](https://zenn.dev/zumiraku) と [note](https://note.com/zumiraku)、[Qiita](https://qiita.com/zumiraku) に書いています。原稿は [my-zenn-articles](https://github.com/zumiraku/my-zenn-articles) で管理しています。詰まったところと、その回避策が中心です。
 
 <br/>
 
 ## ご相談
 
-[ランサーズ](https://www.lancers.jp/profile/Ponta-0363)経由と直接依頼、どちらも受けています。NDAも対応します。
+直接のご依頼を受けています。NDAも対応します。
 
 「何から手をつければいいか分からない」段階からでも構いません。
 
@@ -171,7 +172,7 @@ AWS Certified Solutions Architect – Professional / AWS Machine Learning Engine
 
 ## English
 
-Freelance AI engineer based in Osaka, Japan. Generative AI and web development.
+Zumiraku (図美楽) — freelance AI engineer based in Osaka, Japan. Generative AI and web development.
 
 I build LLM applications and workflow automation with ChatGPT, Claude and RAG, alongside web work in React/Next.js, Shopify and WordPress, and AWS migrations — design through to operation, handled solo.
 
@@ -191,19 +192,18 @@ Open to contract work, including projects where the requirements are still takin
 
 ## リンク
 
-| | |
-|---|---|
-| ランサーズ | [ブラックにゃー (Ponta-0363)](https://www.lancers.jp/profile/Ponta-0363) |
-| note | [note.com/blacknyaa](https://note.com/blacknyaa) |
-| Qiita | [qiita.com/blacknyaa](https://qiita.com/blacknyaa) |
-| Zenn | [zenn.dev/blacknyaa](https://zenn.dev/blacknyaa) |
-| YOUTRUST | [youtrust.jp/users/blacknyaa](https://youtrust.jp/users/blacknyaa) |
-| GitHub | [github.com/blacknyaa](https://github.com/blacknyaa) |
+| 媒体 | リンク | 表示名 |
+|---|---|---|
+| note | [note.com/zumiraku](https://note.com/zumiraku) | 図美楽 |
+| Qiita | [qiita.com/zumiraku](https://qiita.com/zumiraku) | ずみらく |
+| Zenn | [zenn.dev/zumiraku](https://zenn.dev/zumiraku) | ズミラク |
+| YOUTRUST | [youtrust.jp/users/zumiraku](https://youtrust.jp/users/zumiraku) | 図ミラク |
+| GitHub | [github.com/zumiraku](https://github.com/zumiraku) | 図美楽 |
 
 <div align="center">
 <sub>
 
-ブラックにゃー / blacknyaa — 大阪のフリーランスAIエンジニア
+図美楽 / ずみらく / ズミラク / 図ミラク / zumiraku — 大阪のフリーランスAIエンジニア
 Osaka, Japan — Generative AI × Web Development
 
 </sub>
