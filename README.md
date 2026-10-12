@@ -26,7 +26,11 @@ RAG による社内文書検索、LLM を使った業務自動化、エージェ
 
 ## 公開しているもの
 
-### [sktes-global-auction](https://github.com/zumiraku/sktes-global-auction)
+受託案件が中心です。守秘義務の範囲で公開できるものを置いています。
+
+### 業務システム
+
+#### [sktes-global-auction](https://github.com/zumiraku/sktes-global-auction)
 
 中古IT機器の国際競売プラットフォーム。封印入札を実装しています。
 
@@ -34,25 +38,59 @@ RAG による社内文書検索、LLM を使った業務自動化、エージェ
 
 Excel明細の取り込み、多要素認証、7年保存の監査ログ、日英中の3言語対応。Next.js 15 / Prisma / TypeScript。
 
-### [work-report-system](https://github.com/zumiraku/work-report-system)
+#### [hitotsu](https://github.com/zumiraku/hitotsu)
+
+業務管理システム。顧客・案件・タスク・対応履歴・ファイル・社内メモを1か所に集約します。
+
+Excel やスプレッドシートに散らばった情報をまとめ、担当者が変わっても引き継ぎで困らない状態をつくることが目的です。Next.js 16 / Prisma 7 / PostgreSQL 17。
+
+#### [work-report-system](https://github.com/zumiraku/work-report-system)
 
 病院設備の保守点検報告書システム。現場のタブレットから入力してPDFまで出します。
 
 本番がさくらのレンタルサーバという制約だったため、Composer も Node も使わず素のPHPで組んでいます。FTPで上げれば動く状態を維持するためです。PDFは TCPDF を同梱、Excel の読み書きは zip 拡張のみで実装しました。
 
-### [faq-ai](https://github.com/zumiraku/faq-ai)
+### AI
+
+#### [faq-ai](https://github.com/zumiraku/faq-ai)
 
 AI採用システム。会社説明会チャットとAI面接官です。
 
 デモ版と本番版を別に作ると片方だけ直して食い違うので、同じコードで動かしています。切り替えの分岐は起動時の1回だけです。AI面接官はスコアを出しますが、合否は人が押します。スコアが低くても回答を読めば拾える候補者がいるためです。
 
-### [teachingbeauty-migration-to-wp](https://github.com/zumiraku/teachingbeauty-migration-to-wp)
+#### [macOS-OpenAI-Text-to-Speech-](https://github.com/zumiraku/macOS-OpenAI-Text-to-Speech-)
+
+Mac で選択したテキストをショートカット一発で読み上げるツール。
+
+### サイト構築・移行
+
+#### [takamatsu-law](https://github.com/zumiraku/takamatsu-law)
+
+法律事務所サイトのリニューアル案。コラムを軸にした情報発信とブランディングを目的に構成しています。
+
+コラムを独立した投稿タイプにして、分野ごとのアーカイブを持たせました。記事が増えても管理画面が散らかりません。各記事に絶対URLの canonical を出力しているので、将来 note に要約を載せても検索評価は本体サイトに集約されます。試作は TanStack Start、納品は WordPress。
+
+#### [teachingbeauty-migration-to-wp](https://github.com/zumiraku/teachingbeauty-migration-to-wp)
 
 鍼灸整骨院サイトの WordPress 移行。既存の予約導線を落とさないことが最優先の案件でした。
 
-### [macOS-OpenAI-Text-to-Speech-](https://github.com/zumiraku/macOS-OpenAI-Text-to-Speech-)
+#### [isplanning-migration](https://github.com/zumiraku/isplanning-migration)
 
-Mac で選択したテキストをショートカット一発で読み上げるツール。
+ECサイトの MakeShop ベーシックモードからクリエイターモードへの移行。
+
+MakeShop の管理画面には変更履歴がなく、テンプレートの貼り間違いはプラットフォーム側から復元できません。そのため全テンプレート・スタイル・スクリプトを git で管理し、いつでも戻せる状態にしています。
+
+#### [hp-renewal-5607506](https://github.com/zumiraku/hp-renewal-5607506)
+
+終活サービスのトップページをレスポンシブに改修。
+
+`width=1480` 固定のビューポートをやめ、端末ごとにレイアウトを組み替えました。画像に焼き込まれていた文字（料金・電話番号など）はすべてテキスト化。本文は17〜18px、行間をゆったりめにしています。50〜70代の方がスマホで読むことを前提にしたためです。
+
+#### [marsiees-bilingual](https://github.com/zumiraku/marsiees-bilingual) / [marsiees-en-lp](https://github.com/zumiraku/marsiees-en-lp)
+
+既存サイトへの英語ページ追加と、海外企業向けの英語ランディングページ。
+
+既存デザインをそのまま保ったまま、ヘッダーの JP / EN で切り替える構成にしています。
 
 ## 技術
 
@@ -99,7 +137,7 @@ Eight years of professional work, with ten-plus years in PHP, Python and WordPre
 
 Across that time I have shipped 170+ web and app projects and 80+ systems and internal tools. Selected results: a RAG chatbot answering at 98% accuracy, an AI matching system that lifted conversion by 42%, Slack and LINE bots processing over 2,000 messages a day, and 30+ WordPress sites across real estate, healthcare and salon businesses.
 
-Public repositories include a sealed-bid auction platform for international IT asset trading (per-lot RSA encryption of bid amounts with the deadline bound into the key as authenticated data, Excel manifest import, TOTP multi-factor auth, seven-year audit log, trilingual UI), a maintenance reporting system for hospital facilities written in dependency-free PHP to fit a constrained shared host, and an AI recruiting system where the model scores candidates but a human makes every decision.
+Public repositories span business systems, AI tooling and site builds: a sealed-bid auction platform for international IT asset trading (per-lot RSA encryption of bid amounts with the deadline bound into the key as authenticated data, Excel manifest import, TOTP multi-factor auth, seven-year audit log, trilingual UI), a CRM-style operations system consolidating clients, projects, tasks and correspondence, a maintenance reporting system for hospital facilities written in dependency-free PHP to fit a constrained shared host, an AI recruiting system where the model scores candidates but a human makes every decision, and several site migrations — including an e-commerce platform move where the vendor console keeps no version history, so every template is tracked in git to stay recoverable.
 
 Certifications: AWS Solutions Architect – Professional, AWS Machine Learning Engineer, AWS Developer, Microsoft Azure, and the Applied Information Technology Engineer Examination.
 
