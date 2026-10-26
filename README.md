@@ -1,34 +1,45 @@
 # 図美楽（ずみらく / zumiraku）
 
-フリーランスのAIエンジニアです。生成AIを使った業務自動化と、Webシステムの受託開発をしています。
+**システムとアプリを、AIまで含めて設計から運用まで引き受けるエンジニアです。実務12年。**
 
 媒体によって 図美楽・ずみらく・ズミラク・図ミラク と表記が揺れていますが、どれも同じ人間です。英字は zumiraku で統一しています。
 
-実務8年。PHP・Python・WordPress は学生時代から10年以上、AI開発は6年目です。
+受託開発の会社でWebとシステムを、事業会社でインフラとセキュリティを担当したあと独立しました。決済連携API、予約管理システム、SaaS型の業務管理システム、月間1,200万PVのサイト運用、同時接続3,000人のリアルタイム基盤などを手がけています。ここ数年はRAGとLLMを業務に組み込む仕事も増えました。
 
-## やっていること
+## 守備範囲
 
-RAG による社内文書検索、LLM を使った業務自動化、エージェントの開発が中心です。あわせて React/Next.js・Shopify・WordPress でのサイト構築、AWS へのサーバー移行まで、設計から運用までひとりで担当します。
+### Service.01　Web・アプリ開発
 
-精度や速度を出すところまでが仕事だと考えています。動くものを作るだけなら誰でもできるようになったので、そこから先で差が出ます。
+React・Next.js・TypeScript、案件によっては WordPress・Shopify で。スマホアプリは React Native と Flutter を中心に、必要なら Swift・Kotlin でネイティブも書きます。
 
-## 実績
+画面を作って終わりではありません。プッシュ通知、オフライン対応、App Store と Google Play の審査提出、公開後のアップデートまで通してやります。表示速度と検索での拾われ方も、同じように詰めます。
+
+### Service.02　システム開発・インフラ
+
+業務システムの新規開発から、動かなくなったものの改修、それを載せるサーバーまで。Python・Node.js・PHP でAPIを書き、PostgreSQL と MySQL を扱います。「前に作ってもらったけど、作った人と連絡がつかない」という状態からでも引き継ぎます。
+
+AWSへの移行はダウンタイムをほぼ出しません。Docker と Terraform で環境を揃え、監視とバックアップ、自動デプロイまで含めて整えます。
+
+### Service.03　AI活用・セキュリティ
+
+社内の資料をAIに読ませて答えさせるRAG、問い合わせ対応の自動化、データ収集の自動化。OpenAI と Claude のAPI、LangChain、ベクトル検索を使い分けます。やらなくていい作業から順に外していきます。
+
+あわせて脆弱性診断とその改修、WAFの導入、ログの監視まで。社内のデータをAIに渡す以上、ここは同時に進めるべきところです。
+
+## これまで
 
 | | |
 |---|---|
-| RAGチャットボット | 回答精度 98% |
-| AIマッチングシステム | 成約率 42% 向上 |
-| Slack / LINE ボット | 1日 2,000件以上のメッセージを自動処理 |
-| WordPress制作 | 不動産・医療・サロン系で 30サイト以上 |
-| サーバー移行 | ダウンタイムほぼゼロ |
-| Web・アプリ制作 | 170件以上 |
-| システム・ツール開発 | 80件以上 |
+| Webサイト・アプリ | 200件以上 |
+| 業務システム | 90件以上 |
+| クラウドの構築と移行 | 60件以上 |
+| 脆弱性診断とその改修 | 40件以上 |
 
 ## 公開しているもの
 
-受託案件が中心です。守秘義務の範囲で公開できるものを置いています。
+受託案件が中心なので、守秘義務の範囲で公開できるものを置いています。
 
-### 業務システム
+### システム開発・インフラ
 
 #### [sktes-global-auction](https://github.com/zumiraku/sktes-global-auction)
 
@@ -50,7 +61,7 @@ Excel やスプレッドシートに散らばった情報をまとめ、担当�
 
 本番がさくらのレンタルサーバという制約だったため、Composer も Node も使わず素のPHPで組んでいます。FTPで上げれば動く状態を維持するためです。PDFは TCPDF を同梱、Excel の読み書きは zip 拡張のみで実装しました。
 
-### AI
+### AI活用・セキュリティ
 
 #### [faq-ai](https://github.com/zumiraku/faq-ai)
 
@@ -58,11 +69,7 @@ AI採用システム。会社説明会チャットとAI面接官です。
 
 デモ版と本番版を別に作ると片方だけ直して食い違うので、同じコードで動かしています。切り替えの分岐は起動時の1回だけです。AI面接官はスコアを出しますが、合否は人が押します。スコアが低くても回答を読めば拾える候補者がいるためです。
 
-#### [macOS-OpenAI-Text-to-Speech-](https://github.com/zumiraku/macOS-OpenAI-Text-to-Speech-)
-
-Mac で選択したテキストをショートカット一発で読み上げるツール。
-
-### サイト構築・移行
+### Web・アプリ開発
 
 #### [takamatsu-law](https://github.com/zumiraku/takamatsu-law)
 
@@ -74,9 +81,11 @@ Mac で選択したテキストをショートカット一発で読み上げる�
 
 鍼灸整骨院サイトの WordPress 移行。既存の予約導線を落とさないことが最優先の案件でした。
 
+デザインもURLも変えず、全39ページを1対1で移しています。既存の `.html` URL を維持したので、検索評価も被リンクもブックマークもそのまま残りました。
+
 #### [isplanning-migration](https://github.com/zumiraku/isplanning-migration)
 
-ECサイトの MakeShop ベーシックモードからクリエイターモードへの移行。
+ECサイトの MakeShop ベーシックモードからクリエイターモードへの移行。商品ページ9,514点を含む10,306URLが対象です。
 
 MakeShop の管理画面には変更履歴がなく、テンプレートの貼り間違いはプラットフォーム側から復元できません。そのため全テンプレート・スタイル・スクリプトを git で管理し、いつでも戻せる状態にしています。
 
@@ -92,31 +101,52 @@ MakeShop の管理画面には変更履歴がなく、テンプレートの貼�
 
 既存デザインをそのまま保ったまま、ヘッダーの JP / EN で切り替える構成にしています。
 
+#### [zumiraku.github.io](https://github.com/zumiraku/zumiraku.github.io)
+
+プロフィールページ。HTMLとCSSだけの1枚もの。
+
 ## 技術
 
-**AI / LLM** ChatGPT / Claude / RAG / Python / FastAPI / MLOps
-**フロント** TypeScript / React / Next.js / Vue.js / Tailwind CSS
+**AI / LLM** ChatGPT / Claude / RAG / LangChain / ベクトル検索 / Python / FastAPI
+**フロント** TypeScript / React / Next.js / React Native / Flutter / Vue.js / Tailwind CSS
 **サーバー** Node.js / PHP / Laravel / Django / NestJS
 **データベース** PostgreSQL / MySQL / Prisma / Supabase / Redis
-**インフラ** AWS / Azure / Docker / Kubernetes / Nginx / Terraform
+**インフラ** AWS / Azure / Docker / Kubernetes / Terraform / Nginx
+**セキュリティ** 脆弱性診断 / WAF / ログ監視
 
 新しいものに飛びつくより、枯れたものを正しく使うほうが好きです。さくらのレンタルサーバのように制約の多い環境も慣れています。
 
 ## 資格
 
-AWS Certified Solutions Architect – Professional / AWS Machine Learning Engineer / AWS Developer / Microsoft Azure / 応用情報技術者 / 基本情報技術者 / Python 3 エンジニア認定基礎試験 / CIW JavaScript Specialist / Adobe Certified Professional / TOEIC 830
+AWS Certified Solutions Architect – Professional / AWS Certified Security – Specialty / 情報処理安全確保支援士 / 応用情報技術者 ほか
 
-一番の武器は資格ではなく、10年以上コードを書き続けた経験値のほうだと思っています。
+ただ、一番の武器は資格ではなく、現場で書いてきたコードの量だと思っています。
 
 ## 仕事の進め方
 
-着手前に要件を言語化して、認識を合わせてから書き始めます。途中経過はスクリーンショットや動画で共有します。
+**できないことは、先に「できません」と言います。** 安く受けて途中で止まるのが、いちばん迷惑をかけるので。
 
-バグは症状ではなく原因から直します。同じところを再発させないためです。
+**着手する前に、何ができて何ができないかをすべて出しきります。** ここを飛ばすと作り直しになります。これまで受けた仕事を、途中で投げ出したことは一度もありません。
 
-返信は平日なら30分〜4時間。土日祝も夜は動いています。
+**セキュリティは、あとから足すものではありません。** 設計のいちばん最初に入れます。
 
-## リンク
+**途中経過はスクショや短い動画で共有します。** 「聞いてない」をゼロにしたいので。
+
+**バグは症状ではなく、原因から直します。** 同じところで二度止まらないように。
+
+**納品して終わり、にはしません。** 動き続けて、はじめて役に立つものなので。
+
+## 対応エリアと時間
+
+オンラインで全国どこでも対応します。打ち合わせはビデオ通話、やりとりはチャットで完結。
+
+返信は平日なら4時間以内、土日祝でも12時間以内に。
+
+週1〜3日の業務委託や技術顧問のご相談も受けています。
+
+## 発信
+
+学んだことは溜め込まずに書いて出しています。実務でハマったところと、その抜け方が中心です。
 
 | 媒体 | リンク | 表示名 |
 |---|---|---|
@@ -125,20 +155,28 @@ AWS Certified Solutions Architect – Professional / AWS Machine Learning Engine
 | Zenn | [zenn.dev/zumiraku](https://zenn.dev/zumiraku) | ズミラク |
 | YOUTRUST | [youtrust.jp/users/zumiraku](https://youtrust.jp/users/zumiraku) | 図ミラク |
 
-お仕事のご相談は直接お寄せください。要件が固まっていない段階からでも構いません。NDAも対応します。
+お仕事のご相談は、要件が固まっていない段階からでも構いません。NDAも対応します。
 
 ---
 
 ## English
 
-Zumiraku (図美楽) — freelance AI engineer based in Japan.
+**Zumiraku (図美楽)** — a freelance engineer in Japan who builds systems and apps, AI included, from design through to operation. Twelve years in the field.
 
-Eight years of professional work, with ten-plus years in PHP, Python and WordPress, and six years in AI development. I build LLM applications and workflow automation with ChatGPT, Claude and RAG, alongside web work in React/Next.js, Shopify and WordPress, and AWS migrations — design through to operation, handled solo.
+I started in contract development, building web products and business systems, then moved to an operating company to handle infrastructure and security before going independent. Past work includes payment-gateway integrations, reservation management, a SaaS operations platform, running a site at 12 million monthly page views, and a realtime backend holding 3,000 concurrent users. In recent years a growing share of the work has been putting RAG and LLMs into everyday business processes.
 
-Across that time I have shipped 170+ web and app projects and 80+ systems and internal tools. Selected results: a RAG chatbot answering at 98% accuracy, an AI matching system that lifted conversion by 42%, Slack and LINE bots processing over 2,000 messages a day, and 30+ WordPress sites across real estate, healthcare and salon businesses.
+**What I do**
 
-Public repositories span business systems, AI tooling and site builds: a sealed-bid auction platform for international IT asset trading (per-lot RSA encryption of bid amounts with the deadline bound into the key as authenticated data, Excel manifest import, TOTP multi-factor auth, seven-year audit log, trilingual UI), a CRM-style operations system consolidating clients, projects, tasks and correspondence, a maintenance reporting system for hospital facilities written in dependency-free PHP to fit a constrained shared host, an AI recruiting system where the model scores candidates but a human makes every decision, and several site migrations — including an e-commerce platform move where the vendor console keeps no version history, so every template is tracked in git to stay recoverable.
+- **Web and app development** — React, Next.js and TypeScript, with WordPress or Shopify where the project calls for it; React Native and Flutter for mobile, dropping to Swift or Kotlin when native is required. Push notifications, offline behaviour, App Store and Google Play submission, and post-launch updates are part of the job, as are page speed and search visibility.
+- **Systems and infrastructure** — new business systems, rescue work on ones that stopped running, and the servers underneath. APIs in Python, Node.js and PHP against PostgreSQL and MySQL. I take over projects whose original author is no longer reachable. AWS migrations run with next to no downtime, with Docker and Terraform for parity, plus monitoring, backups and automated deploys.
+- **AI and security** — RAG over internal documents, automated enquiry handling and data collection, using the OpenAI and Claude APIs, LangChain and vector search. Alongside that: vulnerability assessment and remediation, WAF rollout and log monitoring. If company data is going to an AI, that part cannot be deferred.
 
-Certifications: AWS Solutions Architect – Professional, AWS Machine Learning Engineer, AWS Developer, Microsoft Azure, and the Applied Information Technology Engineer Examination.
+**Track record** — 200+ websites and apps, 90+ business systems, 60+ cloud builds and migrations, 40+ vulnerability assessments and the fixes that followed.
 
-I care more about whether something holds up in production than about which framework it uses. Open to contract work, including projects where the requirements are still taking shape. NDAs are fine.
+**Public repositories** span all three areas: a sealed-bid auction platform for international IT asset trading (per-lot RSA encryption of bid amounts with the deadline bound into the key as authenticated data, Excel manifest import, TOTP multi-factor auth, a seven-year audit log, trilingual UI), a CRM-style operations system consolidating clients, projects, tasks and correspondence, a maintenance reporting system for hospital facilities written in dependency-free PHP to fit a constrained shared host, an AI recruiting system where the model scores candidates but a human makes every decision, and several site migrations — including an e-commerce move where the vendor console keeps no version history, so every template is tracked in git to stay recoverable.
+
+**Certifications** — AWS Certified Solutions Architect – Professional, AWS Certified Security – Specialty, Registered Information Security Specialist (Japan), Applied Information Technology Engineer.
+
+**How I work** — I say no before starting rather than stalling halfway. Everything that is and is not possible gets written down before any code is written. Security goes in at the start of the design, not on top of it afterwards. Progress is shared as screenshots and short clips. Bugs get fixed at the cause, not the symptom. Delivery is not the end; something only earns its keep by continuing to run.
+
+Remote across Japan. Replies within 4 hours on weekdays, within 12 hours at weekends and on holidays. Open to contract work, including projects where the requirements are still taking shape, and to one-to-three-days-a-week engagements or advisory roles. NDAs are fine.
