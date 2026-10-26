@@ -83,7 +83,7 @@ AI採用システム。会社説明会チャットとAI面接官です。
 
 デザインもURLも変えず、全39ページを1対1で移しています。既存の `.html` URL を維持したので、検索評価も被リンクもブックマークもそのまま残りました。
 
-#### [isplanning-migration](https://github.com/zumiraku/isplanning-migration)
+#### isplanning-migration（非公開）
 
 ECサイトの MakeShop ベーシックモードからクリエイターモードへの移行。商品ページ9,514点を含む10,306URLが対象です。
 
