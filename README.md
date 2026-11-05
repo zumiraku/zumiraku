@@ -150,6 +150,7 @@ AWS Certified Solutions Architect – Professional / AWS Certified Security – 
 
 | 媒体 | リンク | 表示名 |
 |---|---|---|
+| サイト | [zumiraku.com](https://zumiraku.com/) | 図美楽（ずみらく） |
 | note | [note.com/zumiraku](https://note.com/zumiraku) | 図美楽 |
 | Qiita | [qiita.com/zumiraku](https://qiita.com/zumiraku) | ずみらく |
 | Zenn | [zenn.dev/zumiraku](https://zenn.dev/zumiraku) | ズミラク |
